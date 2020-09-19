@@ -1,4 +1,4 @@
-## **Contact Information**
+# **Contact Information**
 
 **Name:** Andrew Mikhalkin
 
@@ -7,12 +7,12 @@
 **Phone number:** +375 29 617 79 42
 
 ---
-## **Objective**
+# **Objective**
 ```
 I want to create software and learn diffetent code languages
 ```
 ---
-## **Technical Skills**
+# **Technical Skills**
 ```
 * basics HTML
 * basics CSS
@@ -20,12 +20,12 @@ I want to create software and learn diffetent code languages
 * basics Git
 ```
 ---
-## **Work Experience**
+# **Work Experience**
 ```
 No experience
 ```
 ---
-## **English level**
+# **English level**
 ```
 A1
 ```
